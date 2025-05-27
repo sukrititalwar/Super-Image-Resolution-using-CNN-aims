@@ -1,6 +1,6 @@
-# Super Resolution using DCSCN
+![image](https://github.com/user-attachments/assets/405eb66e-1578-4c22-b604-1d94ffc38a37)# Super Resolution using DCSCN
 
-This repository contains code for 4x image super-resolution using a deep CNN architecture inspired by DCSCN.
+This project explores image super-resolution using the Deep CNN with Skip Connection and Network in Network (DCSCN) model. The objective is to enhance low-resolution images to higher resolutions with better visual quality. Through this work, we learned how deep learning-based architectures can reconstruct high-frequency details and how model training, preprocessing, and evaluation play crucial roles in image quality enhancement
 
 ## Folder Structure
 - `dataset.py`: Dataset loader for LR-HR image pairs.
