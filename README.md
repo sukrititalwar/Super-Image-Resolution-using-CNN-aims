@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/405eb66e-1578-4c22-b604-1d94ffc38a37)# Super Resolution using DCSCN
+# Super Resolution using DCSCN
 
 This project explores image super-resolution using the Deep CNN with Skip Connection and Network in Network (DCSCN) model. The objective is to enhance low-resolution images to higher resolutions with better visual quality. Through this work, we learned how deep learning-based architectures can reconstruct high-frequency details and how model training, preprocessing, and evaluation play crucial roles in image quality enhancement
 
@@ -36,3 +36,7 @@ python evaluate.py
 ## Notes
 - Upscaling factor: 4x
 - Metrics used: PSNR, SSIM
+- Our Results
+•	PSNR: 22.63
+•	SSIM: 0.5457
+
